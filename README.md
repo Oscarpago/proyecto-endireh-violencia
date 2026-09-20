@@ -1,3 +1,7 @@
+<div style="text-align: left;">
+  <img width="200" src="https://www.fciencias.unam.mx/sites/default/files/logoFC_2.png" alt="Logo FC">
+</div>
+
 # Proyecto ENDIREH 2021: Violencia contra las Mujeres
 
 ## 1. Objetivo del proyecto
@@ -58,13 +62,13 @@ cd proyecto-endireh-violencia
 Crea el entorno, en la raíz del proyecto:
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 ```
 
 Activalo (cada vez que se abra una terminal nueva):
 
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 ### 4.4 Instalar las dependencias
